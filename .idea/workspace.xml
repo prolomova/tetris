@@ -1,0 +1,861 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="124ac1d6-d4b1-414b-88a8-4d49e4591e9d" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="750">
+      <file leaf-file-name="myTetris.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/myTetris.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="218">
+              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+              <folding>
+                <element signature="e#175#662#0" expanded="false" />
+                <element signature="e#701#799#0" expanded="false" />
+                <element signature="e#836#934#0" expanded="false" />
+                <element signature="e#968#1066#0" expanded="false" />
+                <element signature="e#1100#1198#0" expanded="false" />
+                <element signature="e#1232#1330#0" expanded="false" />
+                <element signature="e#1364#1462#0" expanded="false" />
+                <element signature="e#1500#1598#0" expanded="false" />
+                <element signature="e#3605#3695#0" expanded="false" />
+                <element signature="e#11494#11697#0" expanded="false" />
+                <element signature="e#11716#11838#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="Setup Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>is_fallen</find>
+      <find>get_x</find>
+      <find>get_y</find>
+      <find>move_line</find>
+      <find>curPiece</find>
+      <find>quantity</find>
+      <find>is_free</find>
+      <find>colorTable</find>
+      <find>is_started</find>
+      <find>'</find>
+      <find>score</find>
+      <find>full_</find>
+      <find>PAUs</find>
+      <find>PAU</find>
+      <find>128</find>
+      <find>records</find>
+      <find>names</find>
+      <find>pain</find>
+      <find>start</find>
+      <find>paintE</find>
+      <find>timer</find>
+      <find>cont</find>
+      <find>Cube</find>
+      <find>print</find>
+      <find>next</find>
+      <find>figures</find>
+      <find>list(self.COORDINATES_TABLE.keys())</find>
+      <find>pri</find>
+      <find>change_next_cube</find>
+      <find>EMPTY</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>coordinates[1]</replace>
+      <replace>content</replace>
+      <replace>top</replace>
+      <replace>speed</replace>
+      <replace>fall_figure</replace>
+      <replace>full_lines</replace>
+      <replace>delete_full_ines</replace>
+      <replace>delete_full_lines</replace>
+      <replace>self.coordinates[1]</replace>
+      <replace>is_falling</replace>
+      <replace>move_cube</replace>
+      <replace>set_random_color</replace>
+      <replace>set_y</replace>
+      <replace>score</replace>
+      <replace>pause</replace>
+      <replace>set_color</replace>
+      <replace>is_stopped</replace>
+      <replace>get_next_cube</replace>
+      <replace>is_free</replace>
+      <replace>init_GuiField</replace>
+      <replace>start_game</replace>
+      <replace>is_started</replace>
+      <replace>is_fallen</replace>
+      <replace>self.coordinates[i][1]</replace>
+      <replace>current_figure</replace>
+      <replace>figure_quantity</replace>
+      <replace>COLOR_TABLE</replace>
+      <replace>COORDINATES_TABLE</replace>
+      <replace>PAUSE</replace>
+      <replace>values</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$USER_HOME$/Desktop/test.py" />
+        <option value="$USER_HOME$/Desktop/tet.py" />
+        <option value="$USER_HOME$/Downloads/Tetris.py" />
+        <option value="$PROJECT_DIR$/../kakuro/kakuro.py" />
+        <option value="$PROJECT_DIR$/myTetris.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-14" />
+    <option name="width" value="1628" />
+    <option name="height" value="1714" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="myTetris" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myTetris" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myTetris" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../kakuro/kakuro.py" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="ToolWindowTerminal.ShowToolbar" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.myTetris">
+    <configuration name="myTetris" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="myTetris" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/myTetris.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="tet" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Desktop" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="myTetris" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Desktop/tet.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Python.myTetris" />
+      <item index="1" class="java.lang.String" itemvalue="Python.tet" />
+    </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Python.myTetris" />
+        <item index="1" class="java.lang.String" itemvalue="Python.tet" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="124ac1d6-d4b1-414b-88a8-4d49e4591e9d" name="Default" comment="" />
+      <created>1523782785586</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1523782785586</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-16" y="-16" width="3232" height="1732" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.07888041" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32792926" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32866618" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28150332" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32926002" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32792926" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32866618" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28150332" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.07888041" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32926002" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="19" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/myTetris.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="10" column="10" lean-forward="false" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+          <folding>
+            <element signature="e#175#662#0" expanded="false" />
+            <element signature="e#701#799#0" expanded="false" />
+            <element signature="e#836#934#0" expanded="false" />
+            <element signature="e#968#1066#0" expanded="false" />
+            <element signature="e#1100#1198#0" expanded="false" />
+            <element signature="e#1232#1330#0" expanded="false" />
+            <element signature="e#1364#1462#0" expanded="false" />
+            <element signature="e#1500#1598#0" expanded="false" />
+            <element signature="e#3605#3695#0" expanded="false" />
+            <element signature="e#11494#11697#0" expanded="false" />
+            <element signature="e#11716#11838#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myTetris.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#175#662#0" expanded="false" />
+            <element signature="e#701#799#0" expanded="false" />
+            <element signature="e#836#934#0" expanded="false" />
+            <element signature="e#968#1066#0" expanded="false" />
+            <element signature="e#1100#1198#0" expanded="false" />
+            <element signature="e#1232#1330#0" expanded="false" />
+            <element signature="e#1364#1462#0" expanded="false" />
+            <element signature="e#1500#1598#0" expanded="false" />
+            <element signature="e#3605#3695#0" expanded="false" />
+            <element signature="e#11494#11697#0" expanded="false" />
+            <element signature="e#11716#11838#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myTetris.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#175#662#0" expanded="false" />
+            <element signature="e#701#799#0" expanded="false" />
+            <element signature="e#836#934#0" expanded="false" />
+            <element signature="e#968#1066#0" expanded="false" />
+            <element signature="e#1100#1198#0" expanded="false" />
+            <element signature="e#1232#1330#0" expanded="false" />
+            <element signature="e#1364#1462#0" expanded="false" />
+            <element signature="e#1500#1598#0" expanded="false" />
+            <element signature="e#3605#3695#0" expanded="false" />
+            <element signature="e#11494#11697#0" expanded="false" />
+            <element signature="e#11716#11838#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myTetris.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#175#662#0" expanded="false" />
+            <element signature="e#701#799#0" expanded="false" />
+            <element signature="e#836#934#0" expanded="false" />
+            <element signature="e#968#1066#0" expanded="false" />
+            <element signature="e#1100#1198#0" expanded="false" />
+            <element signature="e#1232#1330#0" expanded="false" />
+            <element signature="e#1364#1462#0" expanded="false" />
+            <element signature="e#1500#1598#0" expanded="false" />
+            <element signature="e#3605#3695#0" expanded="false" />
+            <element signature="e#11494#11697#0" expanded="false" />
+            <element signature="e#11716#11838#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myTetris.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#175#662#0" expanded="false" />
+            <element signature="e#701#799#0" expanded="false" />
+            <element signature="e#836#934#0" expanded="false" />
+            <element signature="e#968#1066#0" expanded="false" />
+            <element signature="e#1100#1198#0" expanded="false" />
+            <element signature="e#1232#1330#0" expanded="false" />
+            <element signature="e#1364#1462#0" expanded="false" />
+            <element signature="e#1500#1598#0" expanded="false" />
+            <element signature="e#3605#3695#0" expanded="false" />
+            <element signature="e#11494#11697#0" expanded="false" />
+            <element signature="e#11716#11838#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myTetris.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#175#662#0" expanded="false" />
+            <element signature="e#701#799#0" expanded="false" />
+            <element signature="e#836#934#0" expanded="false" />
+            <element signature="e#968#1066#0" expanded="false" />
+            <element signature="e#1100#1198#0" expanded="false" />
+            <element signature="e#1232#1330#0" expanded="false" />
+            <element signature="e#1364#1462#0" expanded="false" />
+            <element signature="e#1500#1598#0" expanded="false" />
+            <element signature="e#3605#3695#0" expanded="false" />
+            <element signature="e#11494#11697#0" expanded="false" />
+            <element signature="e#11716#11838#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myTetris.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#175#662#0" expanded="false" />
+            <element signature="e#701#799#0" expanded="false" />
+            <element signature="e#836#934#0" expanded="false" />
+            <element signature="e#968#1066#0" expanded="false" />
+            <element signature="e#1100#1198#0" expanded="false" />
+            <element signature="e#1232#1330#0" expanded="false" />
+            <element signature="e#1364#1462#0" expanded="false" />
+            <element signature="e#1500#1598#0" expanded="false" />
+            <element signature="e#3605#3695#0" expanded="false" />
+            <element signature="e#11494#11697#0" expanded="false" />
+            <element signature="e#11716#11838#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myTetris.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#175#662#0" expanded="false" />
+            <element signature="e#701#799#0" expanded="false" />
+            <element signature="e#836#934#0" expanded="false" />
+            <element signature="e#968#1066#0" expanded="false" />
+            <element signature="e#1100#1198#0" expanded="false" />
+            <element signature="e#1232#1330#0" expanded="false" />
+            <element signature="e#1364#1462#0" expanded="false" />
+            <element signature="e#1500#1598#0" expanded="false" />
+            <element signature="e#3605#3695#0" expanded="false" />
+            <element signature="e#11494#11697#0" expanded="false" />
+            <element signature="e#11716#11838#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myTetris.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#175#662#0" expanded="false" />
+            <element signature="e#701#799#0" expanded="false" />
+            <element signature="e#836#934#0" expanded="false" />
+            <element signature="e#968#1066#0" expanded="false" />
+            <element signature="e#1100#1198#0" expanded="false" />
+            <element signature="e#1232#1330#0" expanded="false" />
+            <element signature="e#1364#1462#0" expanded="false" />
+            <element signature="e#1500#1598#0" expanded="false" />
+            <element signature="e#3605#3695#0" expanded="false" />
+            <element signature="e#11494#11697#0" expanded="false" />
+            <element signature="e#11716#11838#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myTetris.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#175#662#0" expanded="false" />
+            <element signature="e#701#799#0" expanded="false" />
+            <element signature="e#836#934#0" expanded="false" />
+            <element signature="e#968#1066#0" expanded="false" />
+            <element signature="e#1100#1198#0" expanded="false" />
+            <element signature="e#1232#1330#0" expanded="false" />
+            <element signature="e#1364#1462#0" expanded="false" />
+            <element signature="e#1500#1598#0" expanded="false" />
+            <element signature="e#3605#3695#0" expanded="false" />
+            <element signature="e#11494#11697#0" expanded="false" />
+            <element signature="e#11716#11838#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myTetris.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#175#662#0" expanded="false" />
+            <element signature="e#701#799#0" expanded="false" />
+            <element signature="e#836#934#0" expanded="false" />
+            <element signature="e#968#1066#0" expanded="false" />
+            <element signature="e#1100#1198#0" expanded="false" />
+            <element signature="e#1232#1330#0" expanded="false" />
+            <element signature="e#1364#1462#0" expanded="false" />
+            <element signature="e#1500#1598#0" expanded="false" />
+            <element signature="e#3605#3695#0" expanded="false" />
+            <element signature="e#11494#11697#0" expanded="false" />
+            <element signature="e#11716#11838#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myTetris.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#175#662#0" expanded="false" />
+            <element signature="e#701#799#0" expanded="false" />
+            <element signature="e#836#934#0" expanded="false" />
+            <element signature="e#968#1066#0" expanded="false" />
+            <element signature="e#1100#1198#0" expanded="false" />
+            <element signature="e#1232#1330#0" expanded="false" />
+            <element signature="e#1364#1462#0" expanded="false" />
+            <element signature="e#1500#1598#0" expanded="false" />
+            <element signature="e#3605#3695#0" expanded="false" />
+            <element signature="e#11494#11697#0" expanded="false" />
+            <element signature="e#11716#11838#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myTetris.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#175#662#0" expanded="false" />
+            <element signature="e#701#799#0" expanded="false" />
+            <element signature="e#836#934#0" expanded="false" />
+            <element signature="e#968#1066#0" expanded="false" />
+            <element signature="e#1100#1198#0" expanded="false" />
+            <element signature="e#1232#1330#0" expanded="false" />
+            <element signature="e#1364#1462#0" expanded="false" />
+            <element signature="e#1500#1598#0" expanded="false" />
+            <element signature="e#3605#3695#0" expanded="false" />
+            <element signature="e#11494#11697#0" expanded="false" />
+            <element signature="e#11716#11838#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myTetris.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#175#662#0" expanded="false" />
+            <element signature="e#701#799#0" expanded="false" />
+            <element signature="e#836#934#0" expanded="false" />
+            <element signature="e#968#1066#0" expanded="false" />
+            <element signature="e#1100#1198#0" expanded="false" />
+            <element signature="e#1232#1330#0" expanded="false" />
+            <element signature="e#1364#1462#0" expanded="false" />
+            <element signature="e#1500#1598#0" expanded="false" />
+            <element signature="e#3605#3695#0" expanded="false" />
+            <element signature="e#11494#11697#0" expanded="false" />
+            <element signature="e#11716#11838#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myTetris.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#175#662#0" expanded="false" />
+            <element signature="e#701#799#0" expanded="false" />
+            <element signature="e#836#934#0" expanded="false" />
+            <element signature="e#968#1066#0" expanded="false" />
+            <element signature="e#1100#1198#0" expanded="false" />
+            <element signature="e#1232#1330#0" expanded="false" />
+            <element signature="e#1364#1462#0" expanded="false" />
+            <element signature="e#1500#1598#0" expanded="false" />
+            <element signature="e#3605#3695#0" expanded="false" />
+            <element signature="e#11494#11697#0" expanded="false" />
+            <element signature="e#11716#11838#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myTetris.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1000">
+          <caret line="25" column="19" lean-forward="false" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+          <folding>
+            <element signature="e#175#662#0" expanded="false" />
+            <element signature="e#701#799#0" expanded="false" />
+            <element signature="e#836#934#0" expanded="false" />
+            <element signature="e#968#1066#0" expanded="false" />
+            <element signature="e#1100#1198#0" expanded="false" />
+            <element signature="e#1232#1330#0" expanded="false" />
+            <element signature="e#1364#1462#0" expanded="false" />
+            <element signature="e#1500#1598#0" expanded="false" />
+            <element signature="e#3605#3695#0" expanded="false" />
+            <element signature="e#11494#11697#0" expanded="false" />
+            <element signature="e#11716#11838#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../kakuro/kakuro.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myTetris.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#175#662#0" expanded="false" />
+            <element signature="e#701#799#0" expanded="false" />
+            <element signature="e#836#934#0" expanded="false" />
+            <element signature="e#968#1066#0" expanded="false" />
+            <element signature="e#1100#1198#0" expanded="false" />
+            <element signature="e#1232#1330#0" expanded="false" />
+            <element signature="e#1364#1462#0" expanded="false" />
+            <element signature="e#1500#1598#0" expanded="false" />
+            <element signature="e#3605#3695#0" expanded="false" />
+            <element signature="e#11494#11697#0" expanded="false" />
+            <element signature="e#11716#11838#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myTetris.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#175#662#0" expanded="false" />
+            <element signature="e#701#799#0" expanded="false" />
+            <element signature="e#836#934#0" expanded="false" />
+            <element signature="e#968#1066#0" expanded="false" />
+            <element signature="e#1100#1198#0" expanded="false" />
+            <element signature="e#1232#1330#0" expanded="false" />
+            <element signature="e#1364#1462#0" expanded="false" />
+            <element signature="e#1500#1598#0" expanded="false" />
+            <element signature="e#3605#3695#0" expanded="false" />
+            <element signature="e#11494#11697#0" expanded="false" />
+            <element signature="e#11716#11838#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myTetris.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#175#662#0" expanded="false" />
+            <element signature="e#701#799#0" expanded="false" />
+            <element signature="e#836#934#0" expanded="false" />
+            <element signature="e#968#1066#0" expanded="false" />
+            <element signature="e#1100#1198#0" expanded="false" />
+            <element signature="e#1232#1330#0" expanded="false" />
+            <element signature="e#1364#1462#0" expanded="false" />
+            <element signature="e#1500#1598#0" expanded="false" />
+            <element signature="e#3605#3695#0" expanded="false" />
+            <element signature="e#11494#11697#0" expanded="false" />
+            <element signature="e#11716#11838#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/tet.py" />
+    <entry file="file://$USER_HOME$/Downloads/Tetris.py" />
+    <entry file="file://$USER_HOME$/Desktop/test.py" />
+    <entry file="file://$PROJECT_DIR$/myTetris.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#175#662#0" expanded="false" />
+            <element signature="e#701#799#0" expanded="false" />
+            <element signature="e#836#934#0" expanded="false" />
+            <element signature="e#968#1066#0" expanded="false" />
+            <element signature="e#1100#1198#0" expanded="false" />
+            <element signature="e#1232#1330#0" expanded="false" />
+            <element signature="e#1364#1462#0" expanded="false" />
+            <element signature="e#1500#1598#0" expanded="false" />
+            <element signature="e#3605#3695#0" expanded="false" />
+            <element signature="e#11494#11697#0" expanded="false" />
+            <element signature="e#11716#11838#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/tet.py" />
+    <entry file="file://$USER_HOME$/Desktop/test.py" />
+    <entry file="file://$USER_HOME$/Downloads/Tetris.py" />
+    <entry file="file://$PROJECT_DIR$/myTetris.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#175#662#0" expanded="false" />
+            <element signature="e#701#799#0" expanded="false" />
+            <element signature="e#836#934#0" expanded="false" />
+            <element signature="e#968#1066#0" expanded="false" />
+            <element signature="e#1100#1198#0" expanded="false" />
+            <element signature="e#1232#1330#0" expanded="false" />
+            <element signature="e#1364#1462#0" expanded="false" />
+            <element signature="e#1500#1598#0" expanded="false" />
+            <element signature="e#3605#3695#0" expanded="false" />
+            <element signature="e#11494#11697#0" expanded="false" />
+            <element signature="e#11716#11838#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/Tetris.py" />
+    <entry file="file://$USER_HOME$/Desktop/tet.py" />
+    <entry file="file://$USER_HOME$/Desktop/test.py" />
+    <entry file="file://$PROJECT_DIR$/myTetris.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#175#662#0" expanded="false" />
+            <element signature="e#701#799#0" expanded="false" />
+            <element signature="e#836#934#0" expanded="false" />
+            <element signature="e#968#1066#0" expanded="false" />
+            <element signature="e#1100#1198#0" expanded="false" />
+            <element signature="e#1232#1330#0" expanded="false" />
+            <element signature="e#1364#1462#0" expanded="false" />
+            <element signature="e#1500#1598#0" expanded="false" />
+            <element signature="e#3605#3695#0" expanded="false" />
+            <element signature="e#11494#11697#0" expanded="false" />
+            <element signature="e#11716#11838#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/tet.py" />
+    <entry file="file://$USER_HOME$/Downloads/Tetris.py" />
+    <entry file="file://$USER_HOME$/Desktop/test.py" />
+    <entry file="file://$PROJECT_DIR$/myTetris.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11200">
+          <caret line="282" column="8" lean-forward="false" selection-start-line="282" selection-start-column="8" selection-end-line="282" selection-end-column="8" />
+          <folding>
+            <element signature="e#175#662#0" expanded="false" />
+            <element signature="e#701#799#0" expanded="false" />
+            <element signature="e#836#934#0" expanded="false" />
+            <element signature="e#968#1066#0" expanded="false" />
+            <element signature="e#1100#1198#0" expanded="false" />
+            <element signature="e#1232#1330#0" expanded="false" />
+            <element signature="e#1364#1462#0" expanded="false" />
+            <element signature="e#1500#1598#0" expanded="false" />
+            <element signature="e#3605#3695#0" expanded="false" />
+            <element signature="e#11494#11697#0" expanded="false" />
+            <element signature="e#11716#11838#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/tet.py" />
+    <entry file="file://$USER_HOME$/Desktop/test.py" />
+    <entry file="file://$USER_HOME$/Downloads/Tetris.py" />
+    <entry file="file://$PROJECT_DIR$/myTetris.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6800">
+          <caret line="170" column="22" lean-forward="false" selection-start-line="170" selection-start-column="22" selection-end-line="170" selection-end-column="22" />
+          <folding>
+            <element signature="e#175#662#0" expanded="false" />
+            <element signature="e#701#799#0" expanded="false" />
+            <element signature="e#836#934#0" expanded="false" />
+            <element signature="e#968#1066#0" expanded="false" />
+            <element signature="e#1100#1198#0" expanded="false" />
+            <element signature="e#1232#1330#0" expanded="false" />
+            <element signature="e#1364#1462#0" expanded="false" />
+            <element signature="e#1500#1598#0" expanded="false" />
+            <element signature="e#3605#3695#0" expanded="false" />
+            <element signature="e#11494#11697#0" expanded="false" />
+            <element signature="e#11716#11838#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/test.py" />
+    <entry file="file://$PROJECT_DIR$/../hw9/hw9.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="49" column="37" lean-forward="true" selection-start-line="49" selection-start-column="4" selection-end-line="49" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6/secrets.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/importlib/machinery.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/tet.py" />
+    <entry file="file://$USER_HOME$/Downloads/Tetris.py" />
+    <entry file="file://$USER_HOME$/Desktop/test.py" />
+    <entry file="file://$PROJECT_DIR$/../kakuro/kakuro.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-301">
+          <caret line="109" column="21" lean-forward="true" selection-start-line="109" selection-start-column="21" selection-end-line="109" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/ok.py" />
+    <entry file="file://$PROJECT_DIR$/setup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myTetris.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding>
+            <element signature="e#175#662#0" expanded="false" />
+            <element signature="e#701#799#0" expanded="false" />
+            <element signature="e#836#934#0" expanded="false" />
+            <element signature="e#968#1066#0" expanded="false" />
+            <element signature="e#1100#1198#0" expanded="false" />
+            <element signature="e#1232#1330#0" expanded="false" />
+            <element signature="e#1364#1462#0" expanded="false" />
+            <element signature="e#1500#1598#0" expanded="false" />
+            <element signature="e#3605#3695#0" expanded="false" />
+            <element signature="e#11494#11697#0" expanded="false" />
+            <element signature="e#11716#11838#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
