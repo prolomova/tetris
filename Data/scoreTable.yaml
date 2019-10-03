@@ -1,0 +1,18 @@
+simple:
+- {name: player, score: 0}
+- {name: player, score: 0}
+- {name: '', score: 0}
+- {name: '', score: 0}
+- {name: '', score: 0}
+- {name: '', score: 0}
+- {name: '', score: 0}
+- {name: '', score: 0}
+zigzag:
+- {name: '', score: 0}
+- {name: '', score: 0}
+- {name: '', score: 0}
+- {name: '', score: 0}
+- {name: '', score: 0}
+- {name: '', score: 0}
+- {name: '', score: 0}
+- {name: '', score: 0}
